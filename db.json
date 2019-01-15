@@ -1,5 +1,5 @@
-{"burgers":
-  [
+{
+  "burgers": [
     {
       "id": 1,
       "name": "Good Burger",
@@ -65,6 +65,30 @@
       "name": "Cow-abunga",
       "description": "Mooooo",
       "image": "http://www.foodwithfeelings.com/wp-content/uploads/2013/06/ab44_the-fat-cow-ramsay-gordon-6-e1352887255279.jpg"
+    },
+    {
+      "name": "yum yum",
+      "description": "o yea real taste",
+      "image": "https://www.omahasteaks.com/gifs/990x594/bg115.jpg",
+      "id": 12
+    },
+    {
+      "name": "chicken burger",
+      "description": "cock a doodle doo",
+      "image": "https://www.chicken.ca/assets/RecipePhotos/_resampled/FillWyI3MjAiLCI2MDAiXQ/Moist-Chicken-Burgers.jpg",
+      "id": 14
+    },
+    {
+      "name": "the extreme",
+      "description": "puts hair on your chest",
+      "image": "https://i.pinimg.com/236x/b8/f6/5d/b8f65d809c918069a9093417379d32a7--food-chains-cheese-burger.jpg",
+      "id": 15
+    },
+    {
+      "name": "love",
+      "description": "it loves u ",
+      "image": "https://johnrieber.files.wordpress.com/2017/02/valentines-day-love-burger.jpg?w=528",
+      "id": 16
     }
   ]
 }
